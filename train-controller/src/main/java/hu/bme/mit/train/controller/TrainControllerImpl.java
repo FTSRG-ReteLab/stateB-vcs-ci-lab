@@ -13,7 +13,8 @@ public class TrainControllerImpl implements TrainController {
 		if (referenceSpeed < 0) {
 			referenceSpeed = 0;
 		} else {
-			referenceSpeed += step;
+			if(referenceSpeed + step <= 0) referenceSpeed = 0;
+			else referenceSpeed += step;
 		}
 
 		enforceSpeedLimit();
@@ -29,6 +30,14 @@ public class TrainControllerImpl implements TrainController {
 		this.speedLimit = speedLimit;
 		enforceSpeedLimit();
 		
+	}
+
+	@Override
+	public void emergencyBrake(){
+
+		this.speedLimit = 0;
+		enforceSpeedLimit();
+
 	}
 
 	private void enforceSpeedLimit() {
