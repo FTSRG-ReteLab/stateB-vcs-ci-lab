@@ -4,4 +4,8 @@ dependencies {
   compile project(':train-user')
   
   compile group: 'junit', name: 'junit', version: '4.12'
+
+  // https://mvnrepository.com/artifact/com.google.guava/guava
+  compile group: 'com.google.guava', name: 'guava', version: '21.0'
+
 }
