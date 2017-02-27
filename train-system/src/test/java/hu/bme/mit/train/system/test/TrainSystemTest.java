@@ -63,6 +63,8 @@ public class TrainSystemTest {
 		user.overrideJoystickPosition(3);
 		controller.followSpeed();
 		Assert.assertEquals(1, controller.collectionSize());
+		controller.followSpeed();
+		Assert.assertEquals(2, controller.collectionSize());
 	}
 	
 }
