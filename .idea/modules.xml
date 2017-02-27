@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stateB-vcs-ci-lab.iml" filepath="$PROJECT_DIR$/.idea/modules/stateB-vcs-ci-lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/train.iml" filepath="$PROJECT_DIR$/.idea/modules/train.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-controller/train-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/train-controller/train-controller.iml" group="train-controller" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-controller/train-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/train-controller/train-controller_main.iml" group="train-controller" />
