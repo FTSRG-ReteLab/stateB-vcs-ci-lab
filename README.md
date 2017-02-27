@@ -4,7 +4,7 @@ Sample application for the version control systems and continuous integration la
 Header of document
 ==================
 
-    * Listelement1
-    * Listelement2
+ * Listelement1
+ * Listelement2
 
 > This is a quote.
