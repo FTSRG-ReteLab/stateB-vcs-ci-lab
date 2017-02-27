@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stateB-vcs-ci-lab.iml" filepath="$PROJECT_DIR$/.idea/modules/stateB-vcs-ci-lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train.iml" filepath="$PROJECT_DIR$/.idea/modules/train.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-controller/train-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/train-controller/train-controller.iml" group="train-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-controller/train-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/train-controller/train-controller_main.iml" group="train-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-controller/train-controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/train-controller/train-controller_test.iml" group="train-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-interfaces/train-interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/train-interfaces/train-interfaces.iml" group="train-interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-interfaces/train-interfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/train-interfaces/train-interfaces_main.iml" group="train-interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-interfaces/train-interfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/train-interfaces/train-interfaces_test.iml" group="train-interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-sensor/train-sensor.iml" filepath="$PROJECT_DIR$/.idea/modules/train-sensor/train-sensor.iml" group="train-sensor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-sensor/train-sensor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/train-sensor/train-sensor_main.iml" group="train-sensor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-sensor/train-sensor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/train-sensor/train-sensor_test.iml" group="train-sensor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-system/train-system.iml" filepath="$PROJECT_DIR$/.idea/modules/train-system/train-system.iml" group="train-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-system/train-system_main.iml" filepath="$PROJECT_DIR$/.idea/modules/train-system/train-system_main.iml" group="train-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-system/train-system_test.iml" filepath="$PROJECT_DIR$/.idea/modules/train-system/train-system_test.iml" group="train-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-user/train-user.iml" filepath="$PROJECT_DIR$/.idea/modules/train-user/train-user.iml" group="train-user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-user/train-user_main.iml" filepath="$PROJECT_DIR$/.idea/modules/train-user/train-user_main.iml" group="train-user" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/train-user/train-user_test.iml" filepath="$PROJECT_DIR$/.idea/modules/train-user/train-user_test.iml" group="train-user" />
+    </modules>
+  </component>
+</project>

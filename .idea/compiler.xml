@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="train-controller_main" target="1.8" />
+      <module name="train-controller_test" target="1.8" />
+      <module name="train-interfaces_main" target="1.8" />
+      <module name="train-interfaces_test" target="1.8" />
+      <module name="train-sensor_main" target="1.8" />
+      <module name="train-sensor_test" target="1.8" />
+      <module name="train-system_main" target="1.8" />
+      <module name="train-system_test" target="1.8" />
+      <module name="train-user_main" target="1.8" />
+      <module name="train-user_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
