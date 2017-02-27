@@ -12,7 +12,7 @@ public class TrainControllerImpl implements TrainController {
 	private int step = 0;
 	private int referenceSpeed = 0;
 	private int speedLimit = 0;
-	private Table<String,Integer,Integer> table = HashBasedTable.create();
+	private Table<Long,Integer,Integer> table = HashBasedTable.create();
 
 	@Override
 	public void followSpeed() {
@@ -27,7 +27,7 @@ public class TrainControllerImpl implements TrainController {
 
 		}
 
-		table.put(date.toLocaleString(),referenceSpeed,step);
+		table.put(date.getTime(),referenceSpeed,step);
 
 		enforceSpeedLimit();
 
